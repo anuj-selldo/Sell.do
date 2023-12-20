@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sell.do</string>
+    <string name="login_firstline">Welcome back,</string>
+    <string name="signtext">Please Sign in to your account</string>
+</resources>
